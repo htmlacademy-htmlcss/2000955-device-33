@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Николай Неретин](https://up.htmlacademy.ru/htmlcss/33/user/2000955).
-* Наставник: [Елена Асташина].
+* Наставник: [Елена Асташина](https://htmlacademy.ru/profile/helen_astashina).
 
 ---
 
